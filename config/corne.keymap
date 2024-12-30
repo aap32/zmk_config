@@ -8,6 +8,7 @@
 #define NAVI 2
 #define ADJUST 3
 
+
 &lt {
     tapping-term-ms = <300>;
     quick_tap_ms = <200>;
